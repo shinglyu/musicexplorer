@@ -4,7 +4,13 @@ var tags = [
     'tags':[
       'Bach',
       'Handel',
-      'Beethoven'
+      'Beethoven',
+      'Mozart',
+      'Puccini',
+      'Verdi',
+      'Tchaikovsky',
+      'Sibelius',
+      'Bruckner'
     ]
   },
   {
@@ -12,7 +18,12 @@ var tags = [
     'tags':[
       'concerto',
       'sonata',
-      'quartet'
+      'quartet',
+      'symphony',
+      'partita',
+      'suite',
+      'aria',
+      'opera'
     ]
   },
   {
@@ -20,7 +31,11 @@ var tags = [
     'tags':[
       'violin',
       'piano',
-      'string'
+      'string',
+      'horn',
+      'flute',
+      'viola',
+      'cello'
     ]
   }
 ]
