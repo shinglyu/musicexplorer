@@ -1,0 +1,14 @@
+#luckyBtn{
+  width:80vw ;
+  height:80vh;
+  border-radius:5vw;
+  margin:0 auto;
+  /*padding:30vh;*/
+
+  text-align:center;
+  font-size: 7vw;
+
+  background-color: #032070;
+  box-shadow:10px 10px 10px #031442;
+
+}
