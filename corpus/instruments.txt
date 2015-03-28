@@ -1,0 +1,52 @@
+//Retrived from http://musiced.about.com/od/musicinstruments/a/instruments.htm 2015/3/28
+//Musical Instruments Arranged Alphabetically
+
+Bagpipes
+Banjo
+Bass drum
+Bassoon
+Bell
+Bongo
+Castanets
+Cello
+Clarinet
+Clavichord
+Conga drum
+Contrabassoon
+Cornet
+Cymbals
+Double bass
+Dulcian
+Dynamophone
+Flute
+Flutophone
+Glockenspiel
+Gongs
+Guitar
+Harmonica
+Harp
+Harpsichord
+Lute
+Mandolin
+Maracas
+Metallophone
+Musical box
+Oboe
+Ondes-Martenot
+Piano
+Recorder
+Saxophone
+Shawm
+Snare drum
+Steel drum
+Tambourine
+Theremin
+Triangle
+Trombone
+Trumpet
+Tuba
+Ukulele
+Viola
+Violin
+Xylophone
+Zither

@@ -1,0 +1,146 @@
+//retrived from http://en.wikipedia.org/wiki/List_of_musical_forms_by_era 2015/3/28
+//Medieval
+Estampie
+Gregorian Chant
+Motet
+Organum
+Saltarello
+
+//Renaissance
+
+Ballade
+Carol
+Chanson
+Galliard
+Intermedio
+Laude
+Madrigal
+Madrigal comedy
+Madrigale spirituale
+Mass
+    Cyclic mass
+    Parody mass
+    Paraphrase mass
+    Cantus firmus mass
+Motet
+Motet-chanson
+Opera
+Pavane
+Ricercar
+Tiento
+Toccata
+
+//Baroque
+
+Allemande
+Cantata
+Chaconne
+Concerto
+    Concerto grosso
+    Solo concerto
+Fugue
+Gavotte
+Gigue
+Mass
+Minuet
+Opera
+    Opera buffa
+    Opera seria
+Oratorio
+Partita
+Passacaglia
+Prelude
+Sarabande
+Sinfonia
+Sonata
+    Flute sonata
+    Trio sonata
+Suite
+
+//Classical and Romantic
+
+Bagatelle
+Ballade
+Ballet
+    Classical ballet
+Carol
+Concerto
+    Cello concerto
+    Clarinet concerto
+    Double bass concerto
+    Flute concerto
+    Oboe concerto
+    Piano concerto
+    Trumpet concerto
+    Viola concerto
+    Violin concerto
+Étude
+Impromptu
+Intermezzo
+Lied
+Mass
+Mazurka
+March
+Music hall
+Nocturne
+Opera
+    Ballad opera
+    Opera buffa
+    Opéra comique
+    Opera seria
+    Operetta
+    Overture
+        Concert overture
+        Symphonic poem
+    Singspiel
+    Zarzuela
+    Concert Aria
+Oratorio
+Polonaise
+Prelude
+Quartet
+    Piano quartet
+    String quartet
+    Oboe quartet
+Quintet
+    Piano quintet
+    String quintet
+Requiem
+Rhapsody
+Rondo
+Scherzo
+Serenade
+Sinfonia concertante
+Sonata
+    Piano sonata
+    Violin sonata
+    Viola sonata
+    Cello sonata
+    Flute sonata
+    Clarinet sonata
+    Bassoon sonata
+Symphony
+    Program symphony
+    Choral symphony
+Suite
+Waltz
+
+//20th and 21st Century
+
+Ballet
+    Neoclassical ballet
+    Contemporary ballet
+Burlesque
+Cabaret
+Children's music
+Circus music
+Concerto for Orchestra
+Film score
+Modern dance
+Musical theatre
+Opera
+Soundtrack
+Swing
+Vaudeville
+
+
