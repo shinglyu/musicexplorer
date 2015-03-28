@@ -45,7 +45,7 @@ var tags = [
       'Nikolai Rimsk',
       'Carl Maria von Weber',
       'Jean-Philippe Rameau',
-      'Jean-Baptiste Lully'
+      'Jean-Baptiste Lully',
       'Gabriel Fauré',
       'Edvard Grieg',
       'Christoph Willibald Gluck',
