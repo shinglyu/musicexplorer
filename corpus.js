@@ -44,8 +44,8 @@ var tags = [
       'Josquin Des Prez',
       'Nikolai Rimsk',
       'Carl Maria von Weber',
-      'Jea',
-      'Jea',
+      'Jean-Philippe Rameau',
+      'Jean-Baptiste Lully'
       'Gabriel Fauré',
       'Edvard Grieg',
       'Christoph Willibald Gluck',
