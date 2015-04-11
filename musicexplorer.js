@@ -14,12 +14,16 @@ function genSearchStr(){
 
 //https://www.youtube.com/results?search_query=Beethoven+string
 //
-function genLink(searchStr, source){
+function genLink(searchStr, longOnly, source){
   switch (source) {
     case 'YouTube':
+      var longStr = "";
+      if (longOnly) {
+        longStr = "&filters=long&lclk=long";
+      }
       var baseStr = 'https://www.youtube.com/results?search_query=';
       var searchStrUrl = searchStr.replace(/ /g,'+');
-      return baseStr + searchStrUrl;
+      return baseStr + searchStrUrl + longStr;
       break;
     
     default:
@@ -30,7 +34,8 @@ function genLink(searchStr, source){
 
 function luckyBtn(){
   var searchStr = genSearchStr();
-  var url = genLink(searchStr, 'YouTube');
+  var longOnly = document.getElementById('longOnly').checked
+  var url = genLink(searchStr, longOnly, 'YouTube');
   var win = window.open(url);
   //New Tab version
   //var win = window.open(url, '_blank');
