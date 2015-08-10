@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Music Explorer</title>
+  <title>Music Explorer - ?GENRE?</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="index.css" type="text/css" charset="utf-8">
 </head>
 <body>
   <h1>Music Explorer</h1>
-  <h1><a href="classical.html">Classical</a></h1>
-  <h1><a href="jazz.html">Jazz</a></h1>
+  <h1>?GENRE?</h1>
+  <button id="luckyBtn" onclick="luckyBtn()">Click me for music!</button>
+  <br/>
+  <input type="checkbox" id="longOnly" checked/><label for="longOnly">Show only music that are > 20 min long</label>
+  <p>Music Explorer helps you explore the amazing world of ?GENRE? music by computer recommendation</p>
 
   <hr />
   By <a href="http://shinglyu.github.io/" target="_blank">Shing Lyu</a>
 
-  <script src="corpus.js" type="text/javascript" charset="utf-8"></script>
+  <script src="corpus-?GENRE?.js" type="text/javascript" charset="utf-8"></script>
   <script src="musicexplorer.js" type="text/javascript" charset="utf-8"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
