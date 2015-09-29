@@ -45,7 +45,7 @@ var tags = [
       'Charles Mingus  Mingus Ah Um full album',
       'Thelonius Monk  Monk’s Dream full album',
       'Lee Morgan  Cornbread full album',
-      'Lee Morgan  The Sidewinder full album'
+      'Lee Morgan  The Sidewinder full album',
       'Charlie Parker and Dizzy Gillespie  Bird and Diz full album',
       'Charlie Parker  The Complete Charlie Parker on Dial full album',
       'Chalier Parker With Strings',
