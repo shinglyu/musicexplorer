@@ -1,4 +1,4 @@
-var tags = [
+tags['chinese'] = [
   {
     'name':'instruments',
     'tags':[

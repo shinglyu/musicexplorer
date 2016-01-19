@@ -1,4 +1,4 @@
-var tags = [
+tags['classical'] = [
   {
     'name':'composers', 
     'tags':[

@@ -1,4 +1,4 @@
-var tags = [
+tags['jazz'] = [
   {
     'name':'album', 
     'tags':[

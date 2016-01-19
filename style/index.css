@@ -1,0 +1,13 @@
+body {
+  text-align:center;
+}
+
+.luckyBtn{
+  font-size: 8vw;
+  width:40vw;
+  height: 30vh;
+}
+
+.luckyBtn:hover{
+  background-color: lightgreen;
+}
