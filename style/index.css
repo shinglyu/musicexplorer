@@ -1,13 +1,25 @@
 body {
   text-align:center;
+  /*
+  background-image:url('music_bg.jpg')
+  */
+  background-color:SeaGreen;
 }
 
 .luckyBtn{
   font-size: 8vw;
   width:40vw;
   height: 30vh;
+  background-color:rgba(255,255,255,0.3);
+  box-shadow:0px 0px 8px black;
+  border-radius: 10px;
 }
 
 .luckyBtn:hover{
-  background-color: lightgreen;
+  background-color:rgba(255,255,255,0.8);
+}
+
+h1,p,label {
+  color:white;
+  text-shadow: 0px 0px 8px black;
 }
