@@ -44,10 +44,10 @@ function luckyBtn(category){
 }
 
 var tags = {};
-window.onload = function(){
+document.addEventListener("DOMContentLoaded", function(){
   Array.prototype.forEach.call(document.getElementsByClassName('luckyBtn'), function(elem){
     elem.onclick = function(){
       luckyBtn(elem.id);
     }
   })
-}
+});
