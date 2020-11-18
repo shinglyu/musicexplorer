@@ -24,6 +24,10 @@ function genLink(searchStr, longOnly, source){
       var searchStrUrl = searchStr.replace(/ /g,'+');
       return baseStr + searchStrUrl + longStr;
       break;
+
+    case 'Spotify': 
+      return `https://open.spotify.com/search/${encodeURI(searchStr)}`;
+      break;
     
     default:
       return null;
@@ -34,13 +38,11 @@ function genLink(searchStr, longOnly, source){
 function luckyBtn(category){
   console.log(category)
   
-  var searchStr = genSearchStr(tags[category]);
-  var longOnly = document.getElementById('longOnly').checked
-  var url = genLink(searchStr, longOnly, 'YouTube');
-  var win = window.open(url);
-  //New Tab version
-  //var win = window.open(url, '_blank');
-  //win.focus();
+  const searchStr = genSearchStr(tags[category]);
+  const longOnly = document.getElementById('longOnly').checked
+  const source = document.querySelector('input[name="source"]:checked').value;
+  const url = genLink(searchStr, longOnly, source);
+  const win = window.open(url);
 }
 
 var tags = {};
